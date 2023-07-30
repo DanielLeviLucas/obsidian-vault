@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Dracula Official",
   "textFontFamily": "FiraCode Nerd Font Mono",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "baseFontSize": 26
 }

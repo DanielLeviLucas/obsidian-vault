@@ -138,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc863a07c00f94a0",
+  "active": "f6cb74281cb7c58e",
   "lastOpenFiles": [
+    "Linux/vim/vim 101.md",
+    "Linux/vim/vim splits.md",
+    "Linux/vim",
     "container-technologies/Docker/Docker.md",
     "Linux/Distros/Arch GNU Linux/Arch Linux Installation.md",
     "container-technologies/Docker",
