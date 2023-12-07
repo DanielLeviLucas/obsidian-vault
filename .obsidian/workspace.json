@@ -11,11 +11,64 @@
             "id": "f6cb74281cb7c58e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/vim/vim splits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d044e72bdb5548e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Version Control/Git commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6382eab32718be50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Version Control/Git commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44d2c4fd9c68e55c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Version Control/Git commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ea84ec31cf3c20b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Version Control/Git commands.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -65,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 367.5
   },
   "right": {
     "id": "4c5b502ca864df0c",
@@ -81,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Version Control/Git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Version Control/Git commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Version Control/Git commands.md"
+              }
             }
           }
         ]
@@ -138,16 +195,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6cb74281cb7c58e",
+  "active": "3ea84ec31cf3c20b",
   "lastOpenFiles": [
-    "Linux/vim/vim 101.md",
     "Linux/vim/vim splits.md",
+    "TODO.md",
+    "movie todo list.md",
+    "Version Control/Git commands.md",
+    "Linux/vim/vim 101.md",
+    "Linux/Distros/Arch GNU Linux/Arch Linux Installation.md",
     "Linux/vim",
     "container-technologies/Docker/Docker.md",
-    "Linux/Distros/Arch GNU Linux/Arch Linux Installation.md",
     "container-technologies/Docker",
     "container-technologies",
-    "Version Control/Git commands.md",
     "Linux/Distros/Arch GNU Linux",
     "Linux/Distros",
     "Linux",
